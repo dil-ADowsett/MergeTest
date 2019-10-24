@@ -9,7 +9,7 @@ package com.celestial.gitflow.team2;
  *
  * @author Selvyn
  */
-class JSONFormatter
+class JSONFormatterXXX
 {
 
     String format(String input)
